@@ -1,0 +1,4 @@
+# Remove folders e files
+bin
+obj
+.suo

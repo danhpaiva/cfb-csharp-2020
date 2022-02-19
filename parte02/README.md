@@ -1,0 +1,31 @@
+<h2>:scroll: Segunda Parte </h2>
+Tópicos abordados:
+
+- Aula 60: Instalação e Introdução Visual Studio 2019
+- Aula 61: Formulário, Manipulação de componentes, Evento de clique 
+- Aula 62: Componente TextBox
+- Aula 63: Criando e abrindo um novo form
+- Aula 64: Enviar dados de um formulário para outro
+- Aula 65: Como criar um menu
+- Aula 66: Como usar CheckBox
+- Aula 67: Verificar formulários abertos (OpenForms)
+- Aula 68: Checked ListBox
+- Aula 69: ComboBox
+- Aula 70: DateTimePicker
+- Aula 71: LinkLabel
+- Aula 72: ListBox
+- Aula 73: ListView - Parte 01
+- Aula 74: ListView - Parte 02
+- Aula 75: ListView - Parte 03 (Evento SelectedIndexChanged)
+- Aula 76: MAskedTextBox - Máscara
+- Aula 77: MonthCalendar
+- Aula 78: NotifyIcon e ContextMenuStrip
+- Aula 79: NumericUpDown
+- Aula 80: PictureBox e Arquivo de Recursos
+- Aula 81: ProgressBar
+- Aula 82: RadioButton
+- Aula 83 - 89: Criando um Editor de Texto  
+- Aula 90: TrackBar
+- Aula 91: Componente TreeView
+- Aula 93: SplitContainer
+- Aula 94: TabControlupdate

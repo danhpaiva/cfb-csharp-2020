@@ -1,10 +1,10 @@
 <h1 align="center">
-<a href="https://github.com/danhpaiva/matuto-challenge-csharp">Matuto Challenge</a>
+<a href="https://github.com/danhpaiva/matuto-challenge-csharp">Complete C# Course: Object-Oriented Programming and Windows Forms</a>
 </h1>
 
 <p align="center">
   <a href="#">
-    <img src="images\Csharp.png" width="300" alt="C#">
+    <img src="logo\Csharp.png" width="300" alt="C#">
   </a>
 </p>
 
